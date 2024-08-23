@@ -11,6 +11,7 @@
 	"version": "v1.0.0",
 	"developer": "Cursajoz",
 	"description": "Yeah it just randomises the main level page.",
+	"repository": "https://github.com/Cursajoz/basicrandomizer",
 	"resources": {
 		"sprites": [
 			"resources/*.png"
